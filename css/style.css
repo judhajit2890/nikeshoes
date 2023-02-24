@@ -113,7 +113,7 @@ left: 0;
 } */
 .hero-banner{
     /* position: relative */
-    background-image: url(/img/back.png);
+    background-image: url(../img/back.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -129,17 +129,17 @@ left: 0;
     left:50%; */
 }
 .hero-banner .one{
-    background-image: url(/img/heroline3.png);
+    background-image: url(../img/heroline3.png);
     background-position: center;
     background-size: cover;
 }
 .hero-banner .two{
-    background-image: url(/img/heroline1.png);
+    background-image: url(../img/heroline3.png);
     background-position: center;
     background-size: cover;
 }
 .hero-banner .three{
-    background-image: url(/img/heroline2.png);
+    background-image: url(../img/heroline3.png);
     background-position: center;
     background-size: cover;
 }
@@ -214,7 +214,7 @@ left: 0;
 /* feature start */
 .feature{
 /* background-color: red; */
-background-image: url(/img/heroline1.png);
+background-image: url(../img/heroline3.png);
 background-position: center;
 background-size:89%;
 background-repeat: no-repeat;
@@ -771,7 +771,7 @@ background-repeat: no-repeat;
 /* footer start */
 .footer{
     margin: 1rem 0;
-    background-image: url(/img/back.png);
+    background-image: url(../img/back.png);
     background-position: center;
     background-size: 80%;
     background-repeat: no-repeat;
@@ -1105,7 +1105,7 @@ background-repeat: no-repeat;
     /* hero section start */
     .hero-banner{
         /* position: relative */
-        background-image: url(/img/logo5.png);
+        background-image: url(../img/logo5.png);
         background-position: center;
         background-size: 60%;
         background-repeat: no-repeat;
@@ -1138,7 +1138,7 @@ background-repeat: no-repeat;
     /* feature start */
     .feature{
         /* background-color: red; */
-        background-image: url(/img/logo5.png);
+        background-image: url(../img/logo5.png);
         background-size:50%;
     }
     .feature .inner .fbox{
@@ -1302,9 +1302,9 @@ background-repeat: no-repeat;
     /* footer start */
     .footer{
         margin: 1rem 0;
-        background-image: url(/img/logo5.png);
+        background-image: url(../img/logo5.png);
         background-position: center;
-        background-size: 80%;
+        background-size: 60%;
         background-repeat: no-repeat;
         position: relative;
     }
